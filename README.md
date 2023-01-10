@@ -1,3 +1,3 @@
 # Drink-Water-Notification
-Simple Python app to notify user to drink water every 15 minutes.
+Simple Python app to notify user to drink water every 15 minutes using the plyer module.
 
